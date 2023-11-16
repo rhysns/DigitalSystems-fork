@@ -5,5 +5,5 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vlog -sv -work work +incdir+C:/git/DigitalSystems/tasks/Task202-DataFlowLevel {C:/git/DigitalSystems/tasks/Task202-DataFlowLevel/uop_nxor.sv}
+vlog -sv -work work +incdir+C:/git/DigitalSystems-fork/tasks/Task202-DataFlowLevel {C:/git/DigitalSystems-fork/tasks/Task202-DataFlowLevel/uop_nxor.sv}
 

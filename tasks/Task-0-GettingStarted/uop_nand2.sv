@@ -8,7 +8,7 @@
 //
 // System: IEEE 1800-2005
 //
-// Author: Nicholas Outram, University of Plymouth
+// Author: Nicholas Outram, University of Plymouth!
 //
 // Revision: 1.0 18/05/2021
 ///////////////////////////////////////////////////////////////
